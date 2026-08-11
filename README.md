@@ -1,4 +1,4 @@
-L’impact invisible des rendez-vous manqués : une perte d’opportunité pour les patients et un défi financier pour les cliniques. 🏥📉
+L’impact invisible des rendez-vous manqués : une perte d’opportunité pour les patients et un défi financier pour les cliniques.
 
 Chaque "No-Show" est plus qu'une simple case vide dans un agenda : c’est un patient qui n’a pas reçu de soins et une ressource médicale sous-utilisée. Avec le projet VIGIE-SANTÉ, j'ai développé une approche end-to-end pour transformer ce défi opérationnel en levier de performance.
  Objectif : Passer d'une gestion réactive à un pilotage prédictif et scientifique en isolant les causes réelles de l'absentéisme (délai d'attente, profils médicaux, efficacité des SMS).
